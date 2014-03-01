@@ -1,5 +1,4 @@
-# Maintainer: Sabart Otto - Seberm <seberm[at]gmail[dot].com
-# Contributor: Uzsolt
+# Maintainer: Ali Neishabouri - ali[at]neishabouri[dot]net
  
 pkgname=simple-tpm-pk11-git
 _gitname=simple-tpm-pk11
